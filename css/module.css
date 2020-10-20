@@ -1,0 +1,50 @@
+
+h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+    color: rgb(204, 170, 17);
+}
+h2 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    color: rgb(116, 99, 25);
+    width: 300px;
+    text-align: center;    
+
+}
+p {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 16px;
+    color: rgb(197, 184, 126);
+    width: 280px;
+    text-align: center;    
+}
+
+
+#menu {
+    margin-top: 30px;
+    width: 250px;
+    height: 40px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color: rgb(126, 103, 26);
+
+}
+
+footer{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 14px;
+    color: rgb(128, 126, 119);
+    border-top: 1px solid #ddd;
+    padding: 20px;
+}
+
+
+li a {
+    text-decoration: none;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    color: rgb(126, 103, 26);
+    font-size: 20px;
+
+}

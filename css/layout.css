@@ -1,0 +1,31 @@
+header {
+    text-align: center;
+    margin-bottom: 40px;
+
+}
+
+footer {
+    clear: both;
+    text-align: center;
+
+}
+#horn-main {
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    margin-left: 15%;
+    justify-content: space-between;
+    margin-bottom: 10%;
+}
+div {
+    margin-top: 5%;
+}
+
+ul{
+    margin-top: 50px;
+}
+li{
+display: inline;
+padding-left: 200px;
+padding-right: 200px;
+}
